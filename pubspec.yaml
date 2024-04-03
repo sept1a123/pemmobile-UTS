@@ -1,0 +1,62 @@
+name: uts_pemrograman_mobile
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/upn.png
+    - assets/BG_Fakultas.jpg
+    - assets/Logofaperta.png
+    - assets/dekanFaperta-removebg.png
+    - assets/AGRO.png
+    - assets/AGRI.png
+    - assets/DwiSeptiajayanti.png
+    - assets/ketuaS1Agro.png
+    - assets/ketuaS1Agri.jpg
+    - assets/S1_AGRO_DOSEN1.jpeg
+    - assets/S1_AGRO_DOSEN2.jpeg
+    - assets/S1_AGRO_DOSEN3.jpg
+    - assets/S2_AGRO_DOSEN1.png
+    - assets/S2_AGRO_DOSEN2.png
+    - assets/S2_AGRO_DOSEN3.png
+    - assets/S1_AGRI_DOSEN1.jpg
+    - assets/S1_AGRI_DOSEN2.jpg
+    - assets/S1_AGRI_DOSEN3.jpg
+    - assets/S2_AGRI_DOSEN1.jpg
+    - assets/S2_AGRI_DOSEN2.jpg
+    - assets/S2_AGRI_DOSEN3.jpg
+    - assets/S3_AGRI_DOSEN1.png
+    - assets/S3_AGRI_DOSEN2.png
+    - assets/S3_AGRI_DOSEN3.png
+    - assets/profilKosong.png
+    - assets/AlfinaMazidatulMufidah.jpg
+    - assets/AlfinaMazidatulMufidah-removebg.png
+    - assets/S1_AGRO_PRESTASI1.jpg
+    - assets/S1_AGRO_PRESTASI2.jpg
+    - assets/S1_AGRO_PRESTASI3.jpg
+    - assets/S1_AGRO_PRESTASI4.jpg
+    - assets/S1_AGRO_PRESTASI5.jpg
+    - assets/S1_AGRO_PRESTASI6.jpg
+    - assets/S1_AGRO_PRESTASI7.jpg
+    - assets/S1_AGRI_PRESTASI1.jpg
+    - assets/S1_AGRI_PRESTASI2.jpg
+    - assets/S1_AGRI_PRESTASI3.jpg
+    - assets/S1_AGRI_PRESTASI4.jpg
+  
+
